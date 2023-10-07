@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DH2020</title>
+	<atom:link href="https://dh2020.adho.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dh2020.adho.org/</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Jul 2020 16:54:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.3</generator>
+
+<image>
+	<url>https://dh2020.adho.org/wp-content/uploads/2019/05/cropped-Untitled-2-01-1-32x32.png</url>
+	<title>DH2020</title>
+	<link>https://dh2020.adho.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cartography of DH2020</title>
+		<link>https://dh2020.adho.org/cartography-of-dh2020/</link>
+					<comments>https://dh2020.adho.org/cartography-of-dh2020/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2020 16:54:48 +0000</pubDate>
+				<category><![CDATA[Program Committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1765</guid>
+
+					<description><![CDATA[How are the people, ideas, and methods of #DH2020 connected? Have a look at Dario Rodighiero&#8217;s remarkable &#8220;Cartography of DH2020&#8221; interactive visualization. For more information see the repository at https://doi.org/10.5281/zenodo.3951528.]]></description>
+										<content:encoded><![CDATA[<p>How are the people, ideas, and methods of #DH2020 connected? Have a look at Dario Rodighiero&#8217;s remarkable &#8220;Cartography of DH2020&#8221; <a href="https://rodighiero.github.io/DH2020/" rel="noopener noreferrer" target="_blank">interactive visualization</a>. For more information see the repository at <a href="https://doi.org/10.5281/zenodo.3951528" rel="noopener noreferrer" target="_blank">https://doi.org/10.5281/zenodo.3951528</a>.<br />
+<img decoding="async" loading="lazy" src="https://dh2020.adho.org/wp-content/uploads/2020/07/Rodighiero_CartographyofDH2020.png" alt="Dario Rodighiero&#039;s Cartography of DH2020" width="1220" height="737" class="alignnone size-full wp-image-1767" srcset="https://dh2020.adho.org/wp-content/uploads/2020/07/Rodighiero_CartographyofDH2020.png 1220w, https://dh2020.adho.org/wp-content/uploads/2020/07/Rodighiero_CartographyofDH2020-300x181.png 300w, https://dh2020.adho.org/wp-content/uploads/2020/07/Rodighiero_CartographyofDH2020-1024x619.png 1024w, https://dh2020.adho.org/wp-content/uploads/2020/07/Rodighiero_CartographyofDH2020-768x464.png 768w" sizes="(max-width: 1220px) 100vw, 1220px" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/cartography-of-dh2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Farewell, Ottawa! Adieu, Ottawa!</title>
+		<link>https://dh2020.adho.org/farewell-ottawa-adieu-ottawa/</link>
+					<comments>https://dh2020.adho.org/farewell-ottawa-adieu-ottawa/#respond</comments>
+		
+		<dc:creator><![CDATA[Jennifer Guiliano]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2020 13:17:54 +0000</pubDate>
+				<category><![CDATA[Local Organizing Committee]]></category>
+		<category><![CDATA[Program Committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1483</guid>
+
+					<description><![CDATA[On behalf of the local organizing team at Carleton University and the University of Ottawa as well as members of the DH2020 Program Committee spread throughout the world, we wish to extend to each of you our thanks for your contributions to the DH2020 Ottawa Conference. In the midst of a global pandemic, authors continued &#8230; ]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">On behalf of the local organizing team at Carleton University and the University of Ottawa as well as members of the DH2020 Program Committee spread throughout the world, we wish to extend to each of you our thanks for your contributions to the DH2020 Ottawa Conference. In the midst of a global pandemic, authors continued their work and, as of Monday 15 June, submitted finalized abstracts for our conference book of abstracts.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">The international conference process runs roughly two years. It comprises an elaborate undertaking that relies on volunteer labour: from the initial bidding process completed by local hosts to the work of members of the program committee who draft the call for papers and select the program, to members of the digital humanities community who act as reviewers and awards committee adjudicators. It is a process that relies on generosity and collaboration. And, in the 2020 cycle, one that asked members of the digital humanities community to trust us as your local organizers and program committee. The open peer review process was an unqualified success; we were stunned by the positivity authors and reviewers espoused in the open review stages within a critical intellectual framework. We also learned important lessons that we will be passing on to future conference committees in our final report. We will report out more generally as well on innovations related to the conference workflow, submission ontologies, and the challenges faced by the membership in participating in a conference process marred by a global pandemic.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">As we, the Ottawa local organizers and program committee chairs, turn to completing the book of abstracts which will serve as our final official act as organizers for DH2020, we want to take a moment to highlight for you the hopes that we brought to the conference planning process. We wanted every attendee to feel welcome in Ottawa and at the conference. That welcome was a decidedly Indigenous one that recognized that our very act of gathering was built on colonial legacies that disenfranchised Indigenous peoples from their lands, communities, and families.  We wanted more than a simple land acknowledgement; we wanted attendees to see the vitality that we see articulated by Indigenous communities and scholars. We also sought to center the values of public humanities that start with humans and the humane, the counterpoint that our community brings to global discourses that centre tools and technologies. We encouraged open-ness and aimed to foster discussions of open access, open scholarship, and ultimately the open minds we hope are represented in our community. As a collective, we are ever more convinced that digital humanities should encourage inclusion rather than exclusion; intellectualism rather than anti-intellectualism; and kindness rather than harshness. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Our goal was that attendees would leave feeling invigorated and part of a community that should continually be seeking to embody the importance of working collectively, positively, and with generosity. As we watch the events of the last few months, whether those related to the pandemic of coronavirus or the global anti-Black violence that is decimating communities and families, we are even more convinced that digital humanists should be engaged with the questions of public humanities, partnership, and open data. We had hoped that those joining us in Ottawa would have joined ongoing conversations about the dissemination of scholarship both in-process and in its final form, issues of attribution and credit, and the relationship between private corporations and the cultural record. Even though we are not meeting together in Ottawa, we hope those of you who participate in the upcoming virtual event keep these hopes alive. Thank you to those people within the digital humanities community who, along with Diane Jakacki, are working to create the virtual event.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In the coming weeks you’ll be hearing directly from the virtual conference organizers. Our hope is that virtual organizers and conference attendees find inspiration in what would have occurred in Ottawa. We look forward to authors and participants continuing their generous, collaborative, and supportive contributions.</span></p>
+<p><span style="font-weight: 400;">Constance Crompton</span></p>
+<p><span style="font-weight: 400;">Laura Estill</span></p>
+<p><span style="font-weight: 400;">Shawn Graham</span></p>
+<p><span style="font-weight: 400;">Brian Greenspan</span></p>
+<p><span style="font-weight: 400;">Jennifer Guiliano</span></p>
+<p><span style="font-weight: 400;">Sarah Simpkin</span></p>
+<p><span style="font-weight: 400;">Kevin Kee </span></p>
+<p><span style="font-weight: 400;">Jada Watson</span></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/farewell-ottawa-adieu-ottawa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Extending Our Appreciation for DH2020</title>
+		<link>https://dh2020.adho.org/extending-our-appreciation-for-dh2020/</link>
+					<comments>https://dh2020.adho.org/extending-our-appreciation-for-dh2020/#respond</comments>
+		
+		<dc:creator><![CDATA[Jennifer Guiliano]]></dc:creator>
+		<pubDate>Sat, 11 Apr 2020 00:08:54 +0000</pubDate>
+				<category><![CDATA[Program Committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1443</guid>
+
+					<description><![CDATA[Dear Colleagues, As you’ve now learned the in-person DH2020 conference has officially been cancelled as a result of the global pandemic. We write to you today to share with you our gratitude for the work of the local organizers, Connie Crompton, Sarah Simpkin, Shawn Graham, and Brian Greenspan, as well as the DH2020 program committee. &#8230; ]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Dear Colleagues,</span></p>
+<p><span style="font-weight: 400;">As you’ve now learned the in-person DH2020 conference has officially been cancelled as a result of the global pandemic. We write to you today to share with you our gratitude for the work of the local organizers, Connie Crompton, Sarah Simpkin, Shawn Graham, and Brian Greenspan, as well as the </span><a href="https://dh2020.adho.org/about-the-event/program-committee/"><span style="font-weight: 400;">DH2020 program committee.</span></a></p>
+<p><span style="font-weight: 400;">Behind the scenes, over the last eighteen months, Connie, Shawn, Sarah, and Brian have been a joy to collaborate with. They have worked tirelessly to create what would have certainly been a positive conference experience and environment. Their commitment to a diverse, inclusive, and supportive event made our work as program chairs possible. They continue that labour now as they work through the logistics of conference cancellation. </span></p>
+<p><span style="font-weight: 400;">The program committee has also undertaken a significant amount of work. The PC helped craft our call for papers, building on the proposed theme the local organizers submitted in their original application three years prior. Individual members read dozens of applications in order to vet and shape a strong peer-reviewed program. They worked collaboratively to ensure that applicants&#8217; work was carefully and fairly considered and provided us as program chairs with vital information to aid in the final selection of the conference program. We would like to extend to each of the program committee members our thanks for their service on this committee.</span></p>
+<p><span style="font-weight: 400;">Over the next few months, we will be working to release important information about DH2020 as it would have taken place. This will include information on acceptance rates, the peer review process, and recommendations as part of our reporting obligations. </span><span style="font-weight: 400;">Our work will also support the local organizers as they continue their work to shut down the physical conference. The Conference Coordinating Committee of ADHO will be investigating the potential of a virtual conference in the future. All questions regarding the possible virtual conference can be sent to Diane Jakacki, chair of that committee.</span></p>
+<p><span style="font-weight: 400;">We will post information to dh2020.adho.org as it becomes available. We wish to thank all applicants, peer reviewers, and members of all ADHO committees and SIGs who worked on DH2020. Your labor is valued and we are thankful for it.</span></p>
+<p><span style="font-weight: 400;">Wishing you health and safety. We look forward to seeing you at a future digital humanities event.</span></p>
+<p>Laura Estill &amp; Jennifer Guiliano</p>
+<p>DH2020 Program Co Chairs</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/extending-our-appreciation-for-dh2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cancellation of the In-person DH2020 Conference</title>
+		<link>https://dh2020.adho.org/adho-regretfully-announces-cancellation-of-in-person-dh2020-conference-in-ottawa/</link>
+					<comments>https://dh2020.adho.org/adho-regretfully-announces-cancellation-of-in-person-dh2020-conference-in-ottawa/#respond</comments>
+		
+		<dc:creator><![CDATA[Laura Estill]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2020 21:30:10 +0000</pubDate>
+				<category><![CDATA[Program Committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1435</guid>
+
+					<description><![CDATA[Due to the global COVID-19 pandemic, the Alliance of Digital Humanities Organizations, in consultation with the DH2020 Local Organizers and Program Committee, has decided to cancel this year’s in-person conference in Ottawa, which was scheduled for 19-25 July 2020. This has been an exceptionally difficult decision, but individual and communal health is our priority. An &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>Due to the global COVID-19 pandemic, the <a href="http://adho.org/announcements/2020/adho-regretfully-announces-cancellation-dh2020-conference-ottawa">Alliance of Digital Humanities Organizations</a>, in consultation with the DH2020 Local Organizers and Program Committee, has decided to cancel this year’s in-person conference in Ottawa, which was scheduled for 19-25 July 2020. This has been an exceptionally difficult decision, but individual and communal health is our priority. An in-person conference would endanger attendees and members of the general public. We recognize this is a loss for colleagues who look to the annual conference to share their work and to enjoy the networking and community that the conference entails. We share in the sadness for this lost opportunity.</p>
+<p>Given the deep personal investment made by the organizers and the DH community in the 2020 academic program, ADHO is presently evaluating the feasibility of holding a virtual conference in its place. We hope to communicate further information about this in early May.</p>
+<p>It is as complicated to take a conference apart as it is to organize one, and without the reward of seeing it come to fruition. The ADHO Constituent Organisation Board, Executive Board, and Conference Coordination Committee wish to note their deep gratitude to the local organizers at the University of Ottawa (especially Constance Crompton, Kevin Kee, and Sarah Simpkin) and Carleton University (especially Brian Greenspan and Shawn Graham) for the labor that they have graciously contributed toward these efforts over the last two years. They are also deeply grateful to the Program Committee and, in particular, its Chairs, Laura Estill and Jennifer Guiliano, who put together an exciting DH conference program that promised to extend our signal DH event in new directions by foregrounding voices from indigenous communities. We are determined to find a way of celebrating their effort and that of all who contributed to the conference professionally and academically in the future.</p>
+<p>A number of awards were also intended to be presented in connection with DH2020, including the <a href="http://adho.org/awards/paul-fortier-prize">Paul Fortier Prize</a> and several Conference <a href="http://adho.org/awards/conference-bursary-awards">Bursaries</a>. Once the feasibility of a virtual conference has been assessed, the ADHO Awards Committee will make a further announcement about these awards.</p>
+<p>Details regarding refund processing will be posted to dh2020.adho.org by May 1. Those who completed their registration will receive an email in the coming weeks regarding refunds of fees paid. We hope to have all refunds issued in the next six weeks. We politely request that delegates refrain from making email or social media inquiries on these or other topics as we are unable to provide individual responses in the interim. Until then, please see the <a href="https://docs.google.com/document/d/15AXoMJ17giP4n2VbC-s5IxUYDONThVNcrA3LYupU6sI/edit?usp=sharing">FAQ</a> for answers to some common queries as we establish them.</p>
+<p>We believe strongly that despite the regrettable consequence of this pandemic, our community will also have an opportunity to gain as we learn from and share with one another. ADHO, and all of its COs, takes continued inspiration from DH2020’s planned theme of “carrefours/intersections”, a place where paths cross, and we look forward to gathering with you again when it is safe and responsible to do so. Until then, we wish you and yours the very best at this difficult time.</p>
+<p>The ADHO Constituent Organization Board<br />
+The ADHO Executive Board<br />
+The ADHO Conference Coordinating Committee<br />
+The 2020 Local Organizers<br />
+The 2020 Program Committee</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/adho-regretfully-announces-cancellation-of-in-person-dh2020-conference-in-ottawa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ADHO Statement on DH2020 and COVID-19</title>
+		<link>https://dh2020.adho.org/adho-statement-on-dh2020-and-covid-19/</link>
+					<comments>https://dh2020.adho.org/adho-statement-on-dh2020-and-covid-19/#respond</comments>
+		
+		<dc:creator><![CDATA[Laura Estill]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2020 18:03:26 +0000</pubDate>
+				<category><![CDATA[Program Committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1416</guid>
+
+					<description><![CDATA[The Alliance of Digital Humanities Organizations, in consultation with the DH2020 conference organizers and program committee, is closely following the unfolding international situation regarding COVID-19 (coronavirus). Our thoughts are with everyone affected by the virus. Because the situation is changing quickly, we are planning for how best to ensure the health and well-being of conference &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>The Alliance of Digital Humanities Organizations, in consultation with the DH2020 conference organizers and program committee, is closely following the unfolding international situation regarding COVID-19 (coronavirus). Our thoughts are with everyone affected by the virus. Because the situation is changing quickly, we are planning for how best to ensure the health and well-being of conference attendees and organizers while taking into account the labour and financial commitments made.</p>
+<p>This is an ongoing situation, and we intend to provide an update on the 2020 conference by 1 May.</p>
+<p>In the meantime, we have extended the early bird registration deadline until 15 May in anticipation that the conference proceeds as planned. Given the level of uncertainty regarding all international travel, we encourage all travelers to buy travel insurance.</p>
+<p>For any questions regarding the conference organization, we encourage you to consult our <a href="http://bit.ly/dh2020-faq">FAQ</a> in the first instance. Questions not covered by the FAQ may be directed to <a href="mailto:adho@adho.org">adho@adho.org</a></p>
+<p>With sincere best wishes to all,<br />
+The ADHO Conference Coordinating Committee<br />
+The 2020 Program Committee<br />
+The 2020 Local Organizers<br />
+The ADHO Constituent Organization Board<br />
+The ADHO Executive Board</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/adho-statement-on-dh2020-and-covid-19/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Keynote Selection Process</title>
+		<link>https://dh2020.adho.org/keynote-selection-process/</link>
+					<comments>https://dh2020.adho.org/keynote-selection-process/#respond</comments>
+		
+		<dc:creator><![CDATA[Jennifer Guiliano]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2020 15:12:15 +0000</pubDate>
+				<category><![CDATA[Program Committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1278</guid>
+
+					<description><![CDATA[Recently, we published our first such post on the open peer review process. In this post, we’ll highlight the keynote process and how it functions within the overall conference planning process.  ADHO directs conference organizers as follows with regards to the selection of keynotes:  Keynotes speakers affect the tone for the conference and how it &#8230; ]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Recently, we published our first such </span><a href="https://dh2020.adho.org/a-note-from-the-conference-program-co-chairs-on-the-open-peer-review-process/"><span style="font-weight: 400;">post on the open peer review process</span></a><span style="font-weight: 400;">. In this post, we’ll highlight the keynote process and how it functions within the overall conference planning process. </span></p>
+<p><span style="font-weight: 400;">ADHO directs conference organizers as follows with regards to the selection of keynotes: </span></p>
+<p style="padding-left: 40px;"><span style="font-weight: 400;">Keynotes speakers affect the tone for the conference and how it is promoted. Keynote speakers should be chosen with cultural, disciplinary, geographic, and other forms of diversity in mind. It is recommended that the PC [Program Committee] includes the LOs [Local Organizers] and CCC [Conference Coordinating Committee] in discussions about how such forms of diversity work in a regional context. The PC may alternatively consider creating a plenary session that aligns with the conference theme. The PC should communicate with the keynote speakers concerning the disciplinary focus and level of sophistication of the ADHO audience, particularly if the keynote speaker comes from outside the ADHO community. Normally, the program features two keynotes—including the talks given by the winners of the Busa or Zampolli prizes—and absolutely no more than three keynotes. LOs have veto power over keynote selections insofar as they are responsible for the expenses of the keynote speaker(s). However, it is recommended that LOs raise concerns about potential keynote speaker(s) before the PC votes. After the PC has voted on keynote nominations, the PC Chairs report on the process to the CCC. The CCC reviews the slate of keynotes for issues of cultural, disciplinary, geographic, and other forms of diversity.</span></p>
+<p><span style="font-weight: 400;">DH2020 was scheduled to be a year when the  Zampolli prize was awarded, which would have meant that there was only one other keynote slot available. As it turns out, the Zampolli prize will be awarded in 2021, which opened the possibility for two keynotes in Ottawa.</span></p>
+<p><span style="font-weight: 400;">For DH2020, the program chairs in consultation with local organizers agreed that in keeping with the value of community consultation associated with the conference themes, we would invite submission of individuals and/or 3 person panels for consideration as Keynote Speaker or Plenary Panel of the DH2020 conference in Ottawa. Our goal with a community-wide call was to generate as much input as possible as the ever-broadening scope of digital humanities globally makes it difficult for program chairs and committees to have knowledge about all potential speakers.</span></p>
+<p><span style="font-weight: 400;">For DH2020 we received a number of individual keynote nominations and plenary panel nominations. Those names, brief biographies, links to pertinent scholarly information, and statements of nomination were augmented by a closed nomination process completed by the local organizers and program committee members. Cumulatively, then, there were four local organizers, twenty program committee members, the program committee co-chairs, and anyone who nominated through the open nomination who were solicited to provide first round of keynote and plenary panel suggestions. </span></p>
+<p><span style="font-weight: 400;">From there, the program committee assessed the initial list of nominations for relevance to the conference theme, qualifications, as well as issues of cultural, disciplinary, geographic, and other forms of diversity. Gaps identified in discussion were then closed by bringing forward new nominations to the process. The Program Committee then whittled the initial list down to a ranked short list for discussion with local organizers by assessing nominee’s qualifications, relevance to the conference theme, and potential impact on the attendees. </span></p>
+<p><span style="font-weight: 400;">Consultation with local organizers was key as the financial viability of supporting the potential speakers is tied to the approved conference budget. Keynote and plenary speaker costs are built into the local organizers’ budget. Thus, any expansion of the number of scholars speaking has financial consequences that must be accounted for. Once the local organizers have shared their thoughts about the ranked list and their ability to provide financial support, the final ranked list was considered “endorsed” by the Program Committee and the Local Organizing Committee. </span></p>
+<p><span style="font-weight: 400;">This endorsed list was provided to the Conference Coordinating Committee for their review and endorsement. The Conference Coordinating Committee were given an opportunity to endorse the list in the order provided by the Program Committee chairs, to re-order the list, or to suggest additions to the list. After voting, the final list was ranked accordingly and accepted by the Coordinating Committee. Invitation to the select speaker were issued by the Program committee chairs along with a representative of the Local Organizing Committee. </span></p>
+<p><span style="font-weight: 400;">We then hoped that our invited speaker(s) say yes. And, spoiler, our speakers said yes. </span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/keynote-selection-process/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Not Your Average Conference</title>
+		<link>https://dh2020.adho.org/not-your-average-conference/</link>
+					<comments>https://dh2020.adho.org/not-your-average-conference/#respond</comments>
+		
+		<dc:creator><![CDATA[Jennifer Guiliano]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2019 15:09:41 +0000</pubDate>
+				<category><![CDATA[Program Committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1321</guid>
+
+					<description><![CDATA[The international Alliance of Digital Humanities Organizations’ Digital Humanities conference can be quite different from other academic conferences. Each field and each geographical area has its own conventions for how papers are submitted, accepted, and presented at their conferences. As a field comprising practitioners from a range of disciplines and from all around the world, &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>The international Alliance of Digital Humanities Organizations’ Digital Humanities conference can be quite different from other academic conferences. Each field and each geographical area has its own conventions for how papers are submitted, accepted, and presented at their conferences. As a field comprising practitioners from a range of disciplines and from all around the world, the DH conference draws from humanities, social sciences, computer sciences, and information sciences.</p>
+<p>In many North American humanities disciplines, papers are not peer reviewed by a pool of reviewers; abstracts are, instead, vetted by a program committee who determines what should be presented at the conference. In this model, abstract lengths are often short (sometimes only 300-500 words) and participants do not get any direct feedback on their submission except to learn if it has been accepted or not. For many computer science conferences, deadline extensions are not the norm, whereas humanities scholars can be accustomed to these extensions.</p>
+<p>Continuing our efforts to make the DH2020 conference planning process more transparent, we would like to share with you an overview of how the peer review assignment process work. For DH2020, papers are vetted by a pool of reviewers as well as a program committee.</p>
+<p><em>Assembling the Reviewer Pool</em></p>
+<p>Peer review assignments begin with generating a list of qualified peer reviews for the conference. Names are generated through three mechanisms laid out in the <a href="http://adho.org/administration/conference-coordinating/adho-conference-protocol">Conference Protocol</a>:</p>
+<ul>
+<li>A list maintained by the ADHO Conference Coordinating Committee of individuals who reviewed for a previous Digital Humanities Conferences</li>
+<li>An open call soliciting members of the community to nominate themselves or someone else as a potential reviewer</li>
+<li>Names suggested by members of the Program Committee from their digital humanities networks.</li>
+</ul>
+<p>Each reviewer must meet at least two of the following four criteria:</p>
+<ul>
+<li>Be currently associated directly with or have been associated professionally with an institutional DH program, project, or initiative within the last three years.</li>
+<li>Hold at least a Master’s degree or equivalent in a relevant discipline (including but not limited to Humanities, Science(s), Library Science, Fine Arts).</li>
+<li>Have presented at an ADHO-, CO- or SIG-organized conference, symposium, colloquium, or equivalent. [CO is constituent organizations, such as the Canadian Society for Digital Humanities. [[SIGs]] are Special Interest Groups&#8211;you might consider joining one in your field!]</li>
+<li>Have published a DH-specific article or essay in a scholarly journal or volume (either print or electronic).</li>
+</ul>
+<p>The Chairs of the Program Committee verified that open call, program committee nominations, and individuals who created Conftool account met the criteria.This involved culling publicly available information including personal websites, digital humanities conference programs, digital humanities journals, etc. All individual names were forwarded to the Chair of the Conference Coordinating Committee for vetting by the ADHO CCC and Executive Board. From this vetting process, the reviewer designation was applied to individuals deemed eligible by ADHO. (We’ll be writing in the future about how these criteria shape particular aspects of the conference, but for now, just know that it would assist future program committees to have this type of information available publicly about yourself.) All qualified reviewers were invited to join the DH2020 Conftool as a reviewer.</p>
+<p><em>Reviews themselves</em></p>
+<p>Once we received the names of approved reviewers and the submission window closes, our next task was to prompt individuals who’ve agreed to serve as reviewers to complete their list of priority topics. Priority topics are intended to identify what languages, geographies, temporal periods, methods, and disciplines/fields of study best describe the submission and are used by reviewers to signal their areas of expertise.</p>
+<p><em>How Many?</em></p>
+<p>The first step of assigning reviews is to determine the optimal number of reviews needed per submission. ADHO requires a minimum of three on every submission; however, with recusals due to conflicts of interests and/or reviewers who fail to complete their assignments, our first task is to ballpark how many reviews we need completed per submission. We heard from our colleagues handling DH2019 that there were significant numbers of reviews not completed. We determined to assign 6 reviewers per submission to account for this attribution.</p>
+<p><em>Languages?</em></p>
+<p>The underlying Conftool algorithm matches the areas ascribed to the submission with the areas identified by the reviewer. The problem though for Digital Humanities Conferences is that we handle submissions in multiple languages and Conftool cannot weight topical selections. So our second step is to manually assign any submissions that are non-English. For DH2020, this meant we went in and manually assigned roughly three dozen non-English submissions. ADHO has five official languages in which participants can submit: English, Spanish, French, German, and Italian; for the 2020 conference, we added the option of Anishinabeg (Algonquin) to reflect the conference’s location in Ottawa.</p>
+<p>Manually assigning reviews involved looking at the percentage match between the submission and reviewer cross-indexing for ability to review in that particular language. A couple of hours later and voila, the non-English submissions have their assigned reviewers.</p>
+<p><em>The Algorithm</em></p>
+<p>Once we’ve cleared and assigned language-driven submissions we can then leverage the Conftool Algorithm to automatically assign the rest of the reviewers to the appropriate submission. If all reviewers completed their priority topics then the system works perfectly. However, because for DH2020 we were using a new set of ontologies and accounts, roughly 65-70% of the reviewers completed their priority selection. We sent reminders and picked up another couple dozen reviewer selections of priority topics.</p>
+<p>Step three involved running the automated assignment process and then spot checking to ensure that it was working. Those who selected priority topics saw four to six submissions being assigned to them; this was because the algorithm had more preferences to work from. Importantly, the first process of the automation is to identify conflict of interests based on email addresses and institutional affiliations. It works well when people use institutional email addresses; It doesn’t work well with generic mailing programs like gmail or hotmail as it can’t distinguish between the potential contact of someone in the same institution versus the millions using gmail.</p>
+<p>Those who didn’t select priorities were assigned just two submissions per person. In some cases, this meant that individuals were assigned to topical areas that they have no experience in. As those refusals to review come in, we reassign them manually using priority topics.</p>
+<p><em>Monitoring</em></p>
+<p>Similarly, as reviewers identified conflicts of interest that Conftool wasn’t able to account for, we reassign new reviewers to that submission. We increased the potential ways to signal a conflict because of our use of the open review process. This year, you can signal that the review would negatively impact one’s career or personal life. We ask no questions of that conflict; it is immediately reassigned.</p>
+<p>Daily, the PC co-Chairs read every review as it is completed and answer every question that comes to the PC2020@adho.org email address. This allows us to flag potential submissions and reviews that may need additional attention. It also allows us to quickly turn over manual reassignments. The goal of the program chairs is to ensure that the reviews abide by the code of conduct and are productive for authors.</p>
+<p><em>What’s the Program Committee doing?</em></p>
+<p>DH2020 has a twenty person [[program committee]] made up of 2 representatives per ADHO association. These are individuals who’ve agreed to devote extensive time and energy to ensuring the success of the conference.</p>
+<p>As part of this service, the program committee has been split up into groups which each group being assigned to read every single submission in that track. This allows them to not only look at all reviews of a given submission but also to get a sense of the track itself. They can then make recommendations about which submissions should be accepted and which need further work.</p>
+<p><em>Author Responses</em></p>
+<p>After DH2020 submitters receive their feedback, there will be a window where authors can write responses and reviewers will be able to change their evaluations of proposals. These are brief dialogues that let authors respond to reviewer concerns. It also allows the authors to give the program committee additional information that they should consider as they weigh admission to the conference.</p>
+<p><em>Program Committee Discussions and Decisions</em></p>
+<p>The final decisions about the DH2020 program are made by the program committee in consultation with the conference coordinating committee as needed. We look at all reviews including the one completed by a member of the program committee. We also read the author’s response and notes to the program committee.</p>
+<p><em>What can you do?</em></p>
+<p>There are many ways to be involved in making decisions about upcoming digital humanities conferences:</p>
+<ul>
+<li>Serving on the conference coordinating committee</li>
+<li>Serving on the program committee (contact your ADHO constituent organization to see how they choose their program committee member(s))</li>
+<li>Serving on the local organizing committee (or proposing to host a future conference as local organizers)</li>
+<li>Joining and organizing ADHO SIGs (Special Interest Groups), which create programming at each ADHO conference</li>
+<li>Submitting proposals</li>
+<li>Reviewing proposals</li>
+</ul>
+<p>The conference is also supported by the ADHO multilingualism and multiculturalism committee, the Constituent Organization Board, and Executive Board.</p>
+<p>DH2020 is not your average conference&#8211;but we have teams of people working to make it above average. Hope to see you in Ottawa!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/not-your-average-conference/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DH2020 Welcomes Reviewers</title>
+		<link>https://dh2020.adho.org/dh2020-welcomes-reviewers/</link>
+					<comments>https://dh2020.adho.org/dh2020-welcomes-reviewers/#respond</comments>
+		
+		<dc:creator><![CDATA[Jennifer Guiliano]]></dc:creator>
+		<pubDate>Wed, 13 Nov 2019 22:34:27 +0000</pubDate>
+				<category><![CDATA[Program Committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1299</guid>
+
+					<description><![CDATA[Below is information provided to our reviewers for DH2020. It serves as a recognition of the labor involved with putting together the conference program. Thank you for your willingness to review submissions for DH2020! We are pleased to have you as part of our reviewing team. You will be assigned five to six submissions to &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>Below is information provided to our reviewers for DH2020. It serves as a recognition of the labor involved with putting together the conference program.</p>
+<p style="padding-left: 80px;">Thank you for your willingness to review submissions for DH2020! We are pleased to have you as part of our reviewing team.</p>
+<p style="padding-left: 80px;">You will be assigned five to six submissions to review using the topics you specified when you set up your Conftool account. If you have not selected priority topics in Conftool, please login immediately and do so. You cannot be assigned to review until you have selected your topics as these allow us to match you with submissions.</p>
+<p style="padding-left: 80px;">Reviews will be completed in ConfTool: <a href="https://www.conftool.pro/dh2020/%20">https://www.conftool.pro/dh2020/</a></p>
+<p style="padding-left: 80px;">You will have 30 days from 14 November 2019 to 14 December 2019 to complete your reviews. You will receive individual emails for each review assigned. We will remind anyone with unfinished review responsibilities on 7 December to ensure timely submission of all reviews.</p>
+<p style="padding-left: 80px;">As you review, please keep in mind the following:</p>
+<p style="padding-left: 120px;">This year, peer review will be open, which means that reviewer and submitter names will be visible to each other, but are not meant to be shared publicly. We are working to ensure a rigorous and professional review standards.</p>
+<p style="padding-left: 120px;">Reviews will be held to the standards outlined in the Code of Conduct: <a href="https://dh2020.adho.org/code-of-conduct/%20">https://dh2020.adho.org/code-of-conduct/</a></p>
+<p style="padding-left: 120px;">If you need to recuse yourself from a review for any reason, we will be happy to accommodate that request. You need only select the conflict of interest option and we will reassign the review.</p>
+<p style="padding-left: 120px;">Reviewer guidelines, including the review criteria and how to review by submission type, are here: <a href="https://dh2020.adho.org/reviewer-guidelines/">https://dh2020.adho.org/reviewer-guidelines/</a></p>
+<p style="padding-left: 120px;">Please note that the reviewer guidelines do not penalize submissions based on length, but do require all submissions to show “explicit engagement with relevant scholarship, with references” (references can be in any format at this stage, including naming other projects or scholars in the text of the submission)</p>
+<p style="padding-left: 120px;">See here for more about open peer review at DH2020: <a href="https://dh2020.adho.org/guidelines/the-open-peer-review-process/">https://dh2020.adho.org/guidelines/the-open-peer-review-process/</a></p>
+<p style="padding-left: 120px;">Please refresh yourself on the conference theme: Intersections/Carrefours <a href="https://dh2020.adho.org/guidelines/conference-details/#theme%20">https://dh2020.adho.org/guidelines/conference-details/#theme</a></p>
+<p style="padding-left: 80px;">As always, remember to follow the golden rule of reviewing: review others as you would want to be reviewed, that is, fairly and constructively.</p>
+<p style="padding-left: 80px;">Follow us on twitter at @DH2020_Ottawa or use the #DH2020 hashtag to join the conversation.</p>
+<p style="padding-left: 80px;">Let us know if you have any questions. We can be reached at pc2020@adho.org.</p>
+<p style="padding-left: 80px;">Thank you, in advance, for your work to make the DH2020 conference possible.</p>
+<p>Please note that not everyone who volunteered to review will be assigned reviews for DH2020. Review assignments are dependent on meeting reviewer criteria, topical identification from authors,  and the needed number of reviews per submission.  If you would like to review for a future digital humanities conference, please contact <a href="mailto: diane.jakacki@bucknell.edu">Diane Jakacki</a>, chair of the Conference Coordinating Committee.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/dh2020-welcomes-reviewers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Submission Deadline Extended!</title>
+		<link>https://dh2020.adho.org/submission-deadline-extended/</link>
+					<comments>https://dh2020.adho.org/submission-deadline-extended/#respond</comments>
+		
+		<dc:creator><![CDATA[Jennifer Guiliano]]></dc:creator>
+		<pubDate>Mon, 14 Oct 2019 13:01:10 +0000</pubDate>
+				<category><![CDATA[Program Committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1271</guid>
+
+					<description><![CDATA[By request, we&#8217;ve extended the DH2020 Conference Submission deadline to 11:59PM PST on October 22, 2019. Please don&#8217;t miss the deadline!]]></description>
+										<content:encoded><![CDATA[<p>By request, we&#8217;ve extended the DH2020 Conference Submission deadline to 11:59PM PST on October 22, 2019. Please don&#8217;t miss the deadline!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/submission-deadline-extended/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A Note from the Conference Program Co-Chairs on the Open Peer Review Process</title>
+		<link>https://dh2020.adho.org/a-note-from-the-conference-program-co-chairs-on-the-open-peer-review-process/</link>
+					<comments>https://dh2020.adho.org/a-note-from-the-conference-program-co-chairs-on-the-open-peer-review-process/#respond</comments>
+		
+		<dc:creator><![CDATA[Jennifer Guiliano]]></dc:creator>
+		<pubDate>Fri, 16 Aug 2019 02:22:59 +0000</pubDate>
+				<category><![CDATA[Program Committee]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[program committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1248</guid>
+
+					<description><![CDATA[Dear Colleagues, The theme of DH2020 is “carrefours/intersections,” a place where paths cross. Our conference will explore three paths in particular: First Nations, Native American, and Indigenous Studies; public digital humanities; and the open data movement. As part of our focus on open data and open scholarship, the DH2020 conference will have an open peer-review &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>Dear Colleagues,</p>
+<p><span style="font-weight: 400;">The theme of DH2020 is “</span><a href="https://dh2020.adho.org/guidelines/conference-details/#theme"><span style="font-weight: 400;">carrefours/intersections</span></a><span style="font-weight: 400;">,” a place where paths cross. Our conference will explore three paths in particular: </span><a href="https://dh2020.adho.org/guidelines/conference-details/#FINAIS"><span style="font-weight: 400;">First Nations, Native American, and Indigenous Studies</span></a><span style="font-weight: 400;">; </span><a href="https://dh2020.adho.org/guidelines/conference-details/#PDH"><span style="font-weight: 400;">public digital humanities</span></a><span style="font-weight: 400;">; and the </span><a href="https://dh2020.adho.org/guidelines/conference-details/#OD"><span style="font-weight: 400;">open data movement</span></a><span style="font-weight: 400;">. As part of our focus on open data and open scholarship, the DH2020 conference will have an open peer-review process.</span></p>
+<p><span style="font-weight: 400;">In the open peer-review workflow, submissions will be visible to assigned reviewers and the program committee. For the first time, though, the names and affiliations of the submitters will be included with the submissions. Likewise, the names of the reviewers will be available to the program committee, others who reviewed the same proposal after they complete their review, and the proposal’s author(s) after the initial reviews are completed. The submissions, reviews, and responses will not be made available to the public. If accepted, revised submission abstracts and author names will be published in the online program; reviewer names will be published as an alphabetical list unassociated with the abstract that they reviewed. The reviews and responses themselves remain confidential.</span></p>
+<p><span style="font-weight: 400;">Open peer-review being adopted for DH2020 has been part of a multi-year experiment. Prior to 2018, the annual DH conference used single-blind peer review, which meant that reviewers could see author’s names and affiliations, but reviewer identities were kept confidential.  It was determined by the ADHO Steering Committee in consultation with the Conference Coordinating Committee that other forms of peer-review might be beneficial to the conference. Without exploring each of the options, our community of digital humanists would not be able to chart the best way forward.  For DH2018 (Mexico City) and DH2019 (Utrecht), the conference utilized a double-blind review process where neither author nor review names and affiliations were disclosed. </span></p>
+<p><span style="font-weight: 400;">The results of two years of double-blind peer review highlighted challenges including inconsistent anonymization and public-facing scholarship that made anonymization problematic. In 2018 and 2019, the DH conference received a number of submissions that prominently featured author names; others failed to anonymize thoroughly; and yet others attempted to anonymize in ways that only highlighted identities. For instance, some people anonymized self-citations, which then meant the reviewer had only to Google an article title to determine someone’s identity. Many digital humanists know who is working on what projects. Roopika Risam suggests that, among the </span><a href="https://adanewmedia.org/2014/04/issue4-risam/"><span style="font-weight: 400;">many challenges facing peer review in digital humanities</span></a><span style="font-weight: 400;">, the public nature of much of our work is one of them. It also means that even when a submission has been anonymized, it is often not functionally anonymous. Knowing who wrote a paper can invite cronyism; yet even in double-blind peer reviews, it is possible to identify that a friend or colleague wrote a paper. </span></p>
+<p><span style="font-weight: 400;">Additionally both single- and double-blind peer review struggled with the “reviewer 2” problem. Reviewer 2, the well-known meme in academic culture, is notorious for being lazy or downright mean. In practice this ranges from not reading the submission to including ad hominem attacks in their review. </span></p>
+<p><span style="font-weight: 400;">The move to include an open-peer review process for DH2020 is not undertaken lightly. </span><span style="font-weight: 400;">Kathleen Fitzpatrick has repeatedly made the case for the value of open peer review (see </span><a href="https://www.mlajournals.org/doi/pdf/10.1632/prof.2011.2011.1.196"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;"> for an example from the Modern Language Association’s </span><i><span style="font-weight: 400;">Profession </span></i><span style="font-weight: 400;">journal, and </span><a href="https://www.library.illinois.edu/scp/podcast/kathleen-fitzpatrick-on-the-virtues-of-open-peer-review/"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;"> for a podcast interview with Sara Benson, for instance). Fitzpatrick contends that </span><a href="https://www.mlajournals.org/doi/pdf/10.1632/prof.2011.2011.1.196"><span style="font-weight: 400;">“open review produces a wide range of comprehensible, if not traditional, markers of authority, which we must learn to read alongside digitally published texts</span></a><span style="font-weight: 400;">.” Some</span><a href="https://doi.org/10.1002%2Fasi.22784"><span style="font-weight: 400;"> studies </span></a><span style="font-weight: 400;"> have found that the quality of the reviews goes up because the reviewer knows their name will be attached to their work.</span></p>
+<p><span style="font-weight: 400;">That said, we recognize that open peer review could place scholars in precarious, untenured, or problematic situations in the awkward position of being asked to be critical of a submission by a more established scholar. It can, likewise, bring out the worst parts of subconscious bias that plague academia. DH2020 will face these challenges by working to assign reviews fairly and by encouraging submitters and reviewers to educate themselves on subconscious biases, which can only strengthen our community. Of course, one year of open peer review is no panacea: we must continually assess our biases and privileges. Open peer review, as well as a conference survey that will be launched post DH2020, supports these self-reflections and field assessments.</span></p>
+<p><span style="font-weight: 400;">For DH2020, we have provided guidelines and models for </span><a href="https://dh2020.adho.org/guidelines/submission-guidelines/"><span style="font-weight: 400;">submitters</span></a><span style="font-weight: 400;"> to help strengthen submissions. Our guidelines and models for </span><a href="https://dh2020.adho.org/reviewer-guidelines/"><span style="font-weight: 400;">reviewers</span></a><span style="font-weight: 400;">, furthermore, will help reviewers create more useful reviews, which will in turn, offer feedback to revise and improve submissions. We will also work, when assigning reviews, to be attentive to known issues around conflicts of rank. As always, authors and reviewers will be able to note conflicts of interest that will nullify a review assignment. Neither nullification of reviewer or author assignment will be made public to the opposite party. We encourage you in your comments to the program committee to note if you have concerns about a specific reviewer(s). We will attempt to accommodate those notations.</span></p>
+<p><span style="font-weight: 400;">Ultimately, no matter what kind of peer review you are undertaking, we encourage people to “</span><a href="https://dh2020.adho.org/reviewer-guidelines/"><span style="font-weight: 400;">Follow the </span><b>golden rule of reviewing</b></a><span style="font-weight: 400;">: review others as you would want to be reviewed: that is, fairly and constructively.” We hope that having an open peer-review process for 2020 will lead to a strong slate of presentations, posters, and workshops. We look forward to joining you in Ottawa!</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Laura Estill and Jennifer Guiliano</span></p>
+<p><span style="font-weight: 400;">DH2020 Program Committee Chairs</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/a-note-from-the-conference-program-co-chairs-on-the-open-peer-review-process/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

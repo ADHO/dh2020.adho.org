@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>program committee &#8211; DH2020</title>
+	<atom:link href="https://dh2020.adho.org/tag/program-committee/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dh2020.adho.org/</link>
+	<description></description>
+	<lastBuildDate>Fri, 16 Aug 2019 02:27:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.3</generator>
+
+<image>
+	<url>https://dh2020.adho.org/wp-content/uploads/2019/05/cropped-Untitled-2-01-1-32x32.png</url>
+	<title>program committee &#8211; DH2020</title>
+	<link>https://dh2020.adho.org/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Note from the Conference Program Co-Chairs on the Open Peer Review Process</title>
+		<link>https://dh2020.adho.org/a-note-from-the-conference-program-co-chairs-on-the-open-peer-review-process/</link>
+					<comments>https://dh2020.adho.org/a-note-from-the-conference-program-co-chairs-on-the-open-peer-review-process/#respond</comments>
+		
+		<dc:creator><![CDATA[Jennifer Guiliano]]></dc:creator>
+		<pubDate>Fri, 16 Aug 2019 02:22:59 +0000</pubDate>
+				<category><![CDATA[Program Committee]]></category>
+		<category><![CDATA[peer review]]></category>
+		<category><![CDATA[program committee]]></category>
+		<guid isPermaLink="false">https://dh2020.adho.org/?p=1248</guid>
+
+					<description><![CDATA[Dear Colleagues, The theme of DH2020 is “carrefours/intersections,” a place where paths cross. Our conference will explore three paths in particular: First Nations, Native American, and Indigenous Studies; public digital humanities; and the open data movement. As part of our focus on open data and open scholarship, the DH2020 conference will have an open peer-review &#8230; ]]></description>
+										<content:encoded><![CDATA[<p>Dear Colleagues,</p>
+<p><span style="font-weight: 400;">The theme of DH2020 is “</span><a href="https://dh2020.adho.org/guidelines/conference-details/#theme"><span style="font-weight: 400;">carrefours/intersections</span></a><span style="font-weight: 400;">,” a place where paths cross. Our conference will explore three paths in particular: </span><a href="https://dh2020.adho.org/guidelines/conference-details/#FINAIS"><span style="font-weight: 400;">First Nations, Native American, and Indigenous Studies</span></a><span style="font-weight: 400;">; </span><a href="https://dh2020.adho.org/guidelines/conference-details/#PDH"><span style="font-weight: 400;">public digital humanities</span></a><span style="font-weight: 400;">; and the </span><a href="https://dh2020.adho.org/guidelines/conference-details/#OD"><span style="font-weight: 400;">open data movement</span></a><span style="font-weight: 400;">. As part of our focus on open data and open scholarship, the DH2020 conference will have an open peer-review process.</span></p>
+<p><span style="font-weight: 400;">In the open peer-review workflow, submissions will be visible to assigned reviewers and the program committee. For the first time, though, the names and affiliations of the submitters will be included with the submissions. Likewise, the names of the reviewers will be available to the program committee, others who reviewed the same proposal after they complete their review, and the proposal’s author(s) after the initial reviews are completed. The submissions, reviews, and responses will not be made available to the public. If accepted, revised submission abstracts and author names will be published in the online program; reviewer names will be published as an alphabetical list unassociated with the abstract that they reviewed. The reviews and responses themselves remain confidential.</span></p>
+<p><span style="font-weight: 400;">Open peer-review being adopted for DH2020 has been part of a multi-year experiment. Prior to 2018, the annual DH conference used single-blind peer review, which meant that reviewers could see author’s names and affiliations, but reviewer identities were kept confidential.  It was determined by the ADHO Steering Committee in consultation with the Conference Coordinating Committee that other forms of peer-review might be beneficial to the conference. Without exploring each of the options, our community of digital humanists would not be able to chart the best way forward.  For DH2018 (Mexico City) and DH2019 (Utrecht), the conference utilized a double-blind review process where neither author nor review names and affiliations were disclosed. </span></p>
+<p><span style="font-weight: 400;">The results of two years of double-blind peer review highlighted challenges including inconsistent anonymization and public-facing scholarship that made anonymization problematic. In 2018 and 2019, the DH conference received a number of submissions that prominently featured author names; others failed to anonymize thoroughly; and yet others attempted to anonymize in ways that only highlighted identities. For instance, some people anonymized self-citations, which then meant the reviewer had only to Google an article title to determine someone’s identity. Many digital humanists know who is working on what projects. Roopika Risam suggests that, among the </span><a href="https://adanewmedia.org/2014/04/issue4-risam/"><span style="font-weight: 400;">many challenges facing peer review in digital humanities</span></a><span style="font-weight: 400;">, the public nature of much of our work is one of them. It also means that even when a submission has been anonymized, it is often not functionally anonymous. Knowing who wrote a paper can invite cronyism; yet even in double-blind peer reviews, it is possible to identify that a friend or colleague wrote a paper. </span></p>
+<p><span style="font-weight: 400;">Additionally both single- and double-blind peer review struggled with the “reviewer 2” problem. Reviewer 2, the well-known meme in academic culture, is notorious for being lazy or downright mean. In practice this ranges from not reading the submission to including ad hominem attacks in their review. </span></p>
+<p><span style="font-weight: 400;">The move to include an open-peer review process for DH2020 is not undertaken lightly. </span><span style="font-weight: 400;">Kathleen Fitzpatrick has repeatedly made the case for the value of open peer review (see </span><a href="https://www.mlajournals.org/doi/pdf/10.1632/prof.2011.2011.1.196"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;"> for an example from the Modern Language Association’s </span><i><span style="font-weight: 400;">Profession </span></i><span style="font-weight: 400;">journal, and </span><a href="https://www.library.illinois.edu/scp/podcast/kathleen-fitzpatrick-on-the-virtues-of-open-peer-review/"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;"> for a podcast interview with Sara Benson, for instance). Fitzpatrick contends that </span><a href="https://www.mlajournals.org/doi/pdf/10.1632/prof.2011.2011.1.196"><span style="font-weight: 400;">“open review produces a wide range of comprehensible, if not traditional, markers of authority, which we must learn to read alongside digitally published texts</span></a><span style="font-weight: 400;">.” Some</span><a href="https://doi.org/10.1002%2Fasi.22784"><span style="font-weight: 400;"> studies </span></a><span style="font-weight: 400;"> have found that the quality of the reviews goes up because the reviewer knows their name will be attached to their work.</span></p>
+<p><span style="font-weight: 400;">That said, we recognize that open peer review could place scholars in precarious, untenured, or problematic situations in the awkward position of being asked to be critical of a submission by a more established scholar. It can, likewise, bring out the worst parts of subconscious bias that plague academia. DH2020 will face these challenges by working to assign reviews fairly and by encouraging submitters and reviewers to educate themselves on subconscious biases, which can only strengthen our community. Of course, one year of open peer review is no panacea: we must continually assess our biases and privileges. Open peer review, as well as a conference survey that will be launched post DH2020, supports these self-reflections and field assessments.</span></p>
+<p><span style="font-weight: 400;">For DH2020, we have provided guidelines and models for </span><a href="https://dh2020.adho.org/guidelines/submission-guidelines/"><span style="font-weight: 400;">submitters</span></a><span style="font-weight: 400;"> to help strengthen submissions. Our guidelines and models for </span><a href="https://dh2020.adho.org/reviewer-guidelines/"><span style="font-weight: 400;">reviewers</span></a><span style="font-weight: 400;">, furthermore, will help reviewers create more useful reviews, which will in turn, offer feedback to revise and improve submissions. We will also work, when assigning reviews, to be attentive to known issues around conflicts of rank. As always, authors and reviewers will be able to note conflicts of interest that will nullify a review assignment. Neither nullification of reviewer or author assignment will be made public to the opposite party. We encourage you in your comments to the program committee to note if you have concerns about a specific reviewer(s). We will attempt to accommodate those notations.</span></p>
+<p><span style="font-weight: 400;">Ultimately, no matter what kind of peer review you are undertaking, we encourage people to “</span><a href="https://dh2020.adho.org/reviewer-guidelines/"><span style="font-weight: 400;">Follow the </span><b>golden rule of reviewing</b></a><span style="font-weight: 400;">: review others as you would want to be reviewed: that is, fairly and constructively.” We hope that having an open peer-review process for 2020 will lead to a strong slate of presentations, posters, and workshops. We look forward to joining you in Ottawa!</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Laura Estill and Jennifer Guiliano</span></p>
+<p><span style="font-weight: 400;">DH2020 Program Committee Chairs</span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dh2020.adho.org/a-note-from-the-conference-program-co-chairs-on-the-open-peer-review-process/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

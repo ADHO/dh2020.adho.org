@@ -1492,7 +1492,7 @@ COMMENTS AREA
 
 .comments-area .bypostauthor>.comment-body .comment-author::after {
   content: "";
-  background: url(https://dh2020.adho.org/wp-content/themes/the-conference/images/check-mark.svg) no-repeat;
+  background: url(/wp-content/themes/the-conference/images/check-mark.svg) no-repeat;
   position: absolute;
   top: 37px;
   left: 32px;
@@ -4758,7 +4758,7 @@ form.search-form:after {
   border-bottom-left-radius: 0;
   color: #fff;
   font-size: 16px;
-  background: #57b9a8 url(https://dh2020.adho.org/wp-content/themes/the-conference/images/search-icon.svg) no-repeat;
+  background: #57b9a8 url(/wp-content/themes/the-conference/images/search-icon.svg) no-repeat;
   background-position: center;
   background-size: 18px;
   text-indent: 60px;

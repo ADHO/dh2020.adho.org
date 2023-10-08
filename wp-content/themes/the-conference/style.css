@@ -7464,3 +7464,23 @@ body.admin-bar.showing-modal {
   }
 
 }
+
+
+/* Added by Simon <simonjwiles@gmail.com>, 2023 */
+a[href*="www.conftool.pro/dh2020"] {
+  text-decoration: line-through !important;
+}
+
+a[href*="www.conftool.pro/dh2020"]:after {
+  background: yellow;
+  border-radius: 4px;
+  color: black;
+  content: "The DH2020 ConfTool site is no longer available.";
+  display: none;
+  padding: 0.5rem 1rem;
+  position: absolute;
+}
+
+a[href*="www.conftool.pro/dh2020"]:hover:after {
+  display: block;
+}
